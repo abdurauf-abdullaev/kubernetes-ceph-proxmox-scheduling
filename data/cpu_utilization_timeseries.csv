@@ -1,0 +1,8 @@
+time_min,baseline_node1,baseline_node2,baseline_node3,proposed_node1,proposed_node2,proposed_node3
+0,95,40,70,64,58,55
+5,94,42,72,65,57,56
+10,96,41,71,63,59,54
+15,95,40,70,66,58,56
+20,94,42,72,64,57,55
+25,95,41,71,65,59,54
+30,96,40,70,67,58,56

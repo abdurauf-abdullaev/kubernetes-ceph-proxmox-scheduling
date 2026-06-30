@@ -1,0 +1,9 @@
+metric,baseline,proposed,improvement
+CPU Imbalance (%),53.29,10.98,79.4% reduction
+Max CPU (%),95.64,67.41,28.2% reduction
+Min CPU (%),39.73,56.33,41.8% increase
+Avg CPU (%),68.76,61.87,More balanced
+Avg Latency (ms),1.11,1.00,Maintained
+P95 Latency (ms),1.15,1.00,Improved
+Ceph Health,HEALTH_OK,HEALTH_OK,Maintained
+Total Pods,9,9,Stable

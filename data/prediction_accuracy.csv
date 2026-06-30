@@ -1,0 +1,4 @@
+resource_type,mape_percent,alpha,window_search_range
+cpu,8.4,0.3,"0.1-0.7 step 0.1"
+mem,5.1,0.3,"0.1-0.7 step 0.1"
+io,12.3,0.3,"0.1-0.7 step 0.1"
